@@ -230,7 +230,7 @@ Nesta seção haverão instruções caso você queira editar o template, explica
 
     - **Avatar.js** - Exemplo de um component relacionado APENAS a feature de **User**.
 
-    - **job** - Diretório para guardar components e utils de relacionados APENAS a feature de **User**.
+    - **job** - Diretório para guardar components e utils relacionados APENAS a feature de **User**.
 
       - **JobTable.js** - Exemplo de um component relacionado APENAS a feature de **User**.
 
